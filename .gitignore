@@ -1,0 +1,26 @@
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Go build and test artifacts
+*.exe
+*.test
+*.prof
+coverage.out
+dist/
+build/
+
+# PowerShell and local run outputs
+matches.csv
+*.log
+*.tmp
+
+# Local environment files
+.env
+.env.*
